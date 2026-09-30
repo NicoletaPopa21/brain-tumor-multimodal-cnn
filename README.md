@@ -18,7 +18,7 @@ The multimodal approach significantly outperforms single-modality models (MRI-on
 * **AUC ROC:** 0.9999
 * **Loss:** 0.0184
 
-##<img width="1464" height="690" alt="matricemultimodal" src="https://github.com/user-attachments/assets/85fd707e-96fd-43c8-9875-385936016085" />
+<img width="1464" height="690" alt="matricemultimodal" src="https://github.com/user-attachments/assets/85fd707e-96fd-43c8-9875-385936016085" />
 <img width="790" height="590" alt="rocmultimodal" src="https://github.com/user-attachments/assets/1fa92d30-5682-4136-ba84-617dbcb7cc77" />
 
 ## Project Structure
